@@ -3,7 +3,7 @@ A quick way of launching vulnerable docker containers.
 
 ![vulnerables-script](vulnerables-script.png)
 
-By default the script contains **6** vulnerable services running on unique ports to avoid any conflict. There are:
+By default the script contains **6** vulnerable services running on unique ports to avoid any conflict. These are:
 
 * Coldfusion (CVE-2017-3066) on port `8500`
 * Heartbleed (CVE-2014-0160) on ports `80` and `443`
